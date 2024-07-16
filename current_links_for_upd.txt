@@ -1,3 +1,3 @@
-version = 1
-link_for_loading_exe = 
-link_with_log = 
+version_link = 'https://raw.githubusercontent.com/DariaL974/upd_test/main/version.txt'
+link_for_loading_exe = 'https://github.com/DariaL974/upd_test/blob/main/test_for_exe.exe'
+link_with_log = 'https://github.com/DariaL974/upd_test/blob/main/change.log'
