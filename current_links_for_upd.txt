@@ -1,0 +1,3 @@
+version = 1
+link_for_loading_exe = 
+link_with_log = 
